@@ -1,0 +1,2382 @@
+<sentence ID=1>
+The, at
+expense, nn
+and, cc
+time, nn
+involved, vbn
+are, ber
+astronomical, nn
+<EOS>
+
+<sentence ID=2>
+However, wrb
+we, ppss
+sent, vbd
+a, at
+third, od
+vessel, nn
+out, in
+a, at
+much, ql
+smaller, jjr
+and, cc
+faster, jjr
+one, cd
+than, in
+the, at
+first, od
+two, wrb
+<EOS>
+
+<sentence ID=3>
+We, ppss
+have, hv
+learned, vbn
+much, ql
+about, rb
+interstellar, pps
+drives, vbz
+since, cs
+a, at
+hundred, cd
+years, nns
+ago, rb
+that, dt
+is, bez
+all, abn
+I, ppss
+can, md
+tell, vb
+you, ppo
+about, in
+them, vbg
+<EOS>
+
+<sentence ID=4>
+But, cc
+the, at
+third, od
+ship, nn
+came, vbd
+back, rb
+several, ap
+years, nns
+ago, rb
+and, cc
+reported, vbd
+That, cs
+it, pps
+had, hvd
+found, vbn
+a, at
+planet, nn
+on, in
+which, wdt
+human, jj
+beings, nns
+could, md
+live, vb
+and, cc
+which, wdt
+was, bedz
+already, rb
+inhabited, vbn
+by, in
+sentient, dts
+beings, nns
+Said, vbd
+Hal, np
+forgetting, vbg
+in, in
+his, pp
+enthusiasm, nn
+that, cs
+he, pps
+had, hvd
+not, hvz
+been, ben
+asked, vbn
+to, in
+speak, to
+<EOS>
+
+<sentence ID=5>
+Macneff, pps
+stopped, vbd
+pacing, vbg
+to, to
+stare, vb
+at, in
+Hal, np
+with, in
+his, pp
+pale, jj
+blue, nn
+eyes, dti
+<EOS>
+
+<sentence ID=6>
+How, wrb
+did, dod
+you, ppss
+know, vb
+He, pps
+said, vbd
+sharply, vb
+<EOS>
+
+<sentence ID=7>
+Forgive, do
+me, ppo
+Sandalphon, pps
+said, vbd
+Hal, nr
+<EOS>
+
+<sentence ID=8>
+But, cc
+it, pps
+was, bedz
+inevitable, jj
+Did, dod
+not, vb
+the, at
+Forerunner, nps
+predict, vb
+in, in
+his, pp
+Time, nn
+and, cc
+the, at
+World, nn
+Line, nn
+that, cs
+such, abl
+a, at
+planet, nn
+would, md
+be, be
+found, vbn
+I, ppss
+believe, vb
+it, pps
+was, bedz
+on, in
+page, nn
+573, wrb
+Macneff, pps
+smiled, vbd
+and, cc
+said, vbd
+I, ppss
+am, bem
+glad, jj
+that, cs
+your, pp
+scriptural, jj
+lessons, nns
+have, hv
+left, vbn
+such, abl
+an, at
+impression, np
+<EOS>
+
+<sentence ID=9>
+How, wrb
+could, md
+they, ppss
+not, md
+Thought, be
+Hal, vbn
+<EOS>
+
+<sentence ID=10>
+Besides, rb
+they, ppss
+were, bed
+not, vbg
+the, at
+only, ap
+impressions, dti
+<EOS>
+
+<sentence ID=11>
+I, ppss
+still, rb
+bear, vb
+scars, nns
+on, in
+my, pp
+back, nn
+where, wrb
+Pornsen, dod
+my, pp
+gapt, nns
+whipped, vbd
+me, ppo
+because, cs
+I, ppss
+had, hvd
+not, ben
+learned, vbn
+my, pp
+lessons, nns
+well, rb
+enough, uh
+<EOS>
+
+<sentence ID=12>
+He, pps
+was, bedz
+a, at
+good, jj
+impresser, nns
+that, cs
+Pornsen, cd
+<EOS>
+
+<sentence ID=13>
+Was, ex
+Is, bez
+As, cs
+I, ppss
+grew, vbd
+older, jjr
+and, cc
+was, bedz
+promoted, vbn
+so, rb
+was, bedz
+he, pps
+always, rb
+where, wrb
+I, ppss
+was, cc
+<EOS>
+
+<sentence ID=14>
+He, pps
+was, bedz
+my, pp
+gapt, nns
+in, in
+the, at
+creche, nn
+<EOS>
+
+<sentence ID=15>
+He, pps
+was, bedz
+the, at
+dormitory, fw
+gapt, fw
+when, wrb
+I, ppss
+went, vbd
+to, in
+college, nn
+and, cc
+thought, vbd
+I, ppss
+was, bedz
+getting, vbg
+away, rb
+from, in
+him, watt
+<EOS>
+
+<sentence ID=16>
+He, pps
+is, bez
+now, rb
+my, pp
+block, nn
+gapt, nr
+<EOS>
+
+<sentence ID=17>
+He, pps
+is, bez
+the, at
+one, cd
+responsible, jj
+for, in
+my, pp
+getting, vbg
+such, jj
+low, jj
+M., vbg
+R.'s, rp
+<EOS>
+
+<sentence ID=18>
+Swiftly, pps
+came, vbd
+the, at
+revulsion, nn
+the, at
+protest, np
+<EOS>
+
+<sentence ID=19>
+No, rb
+not, cs
+he, pps
+for, cs
+I, ppss
+and, cc
+I, ppss
+alone, rb
+am, bem
+responsible, jj
+for, in
+whatever, wdt
+happens, vbz
+to, in
+me, vbg
+<EOS>
+
+<sentence ID=20>
+If, cs
+I, ppss
+get, vb
+a, at
+low, jj
+M., to
+R., do
+I, ppss
+do, do
+so, rb
+because, cs
+I, ppss
+want, vb
+it, ppo
+that, cs
+way, nn
+or, cc
+my, pp
+dark, jj
+self, nn
+does, ppl
+<EOS>
+
+<sentence ID=21>
+If, cs
+I, ppss
+die, vb
+I, ppss
+die, vb
+because, cs
+I, ppss
+willed, vbd
+it, ppo
+so, watt
+<EOS>
+
+<sentence ID=22>
+So, rb
+forgive, vb
+me, ppo
+Sigmen, rp
+for, in
+the, at
+contrary-to-reality, ap
+thoughts, nns
+Please, to
+pardon, vb
+me, ppo
+again, rb
+Sandalphon, pps
+said, vbd
+Hal, nr
+<EOS>
+
+<sentence ID=23>
+But, cc
+did, dod
+the, at
+expedition, nn
+find, vb
+any, dti
+records, nns
+of, in
+the, at
+Forerunner, nps
+having, hvg
+been, ben
+on, in
+this, dt
+planet, nn
+Perhaps, rb
+even, rb
+though, cs
+this, dt
+is, bez
+too, ql
+much, ap
+to, to
+wish, vb
+find, vb
+the, at
+Forerunner, vbg
+himself, ppl
+No, rb
+said, vbd
+Macneff, nr
+<EOS>
+
+<sentence ID=24>
+Though, cs
+that, dt
+does, doz
+not, do
+mean, vb
+that, cs
+there, ex
+may, md
+not, to
+be, be
+such, jj
+records, nns
+there, vb
+<EOS>
+
+<sentence ID=25>
+The, at
+expedition, nn
+was, bedz
+under, in
+orders, nns
+to, to
+make, vb
+a, at
+swift, jj
+survey, nn
+of, in
+conditions, nns
+and, cc
+then, rb
+to, to
+return, vb
+to, to
+Earth, watt
+<EOS>
+
+<sentence ID=26>
+I, ppss
+can't, md
+tell, vb
+you, ppo
+now, rb
+the, at
+distance, nn
+in, in
+lightyears, ppo
+or, cc
+what, wdt
+star, nn
+this, dt
+was, bedz
+though, cs
+you, ppss
+can, md
+see, vb
+it, ppo
+with, in
+the, at
+naked, jj
+eye, nn
+at, in
+night, nn
+in, in
+this, dt
+hemisphere, np
+<EOS>
+
+<sentence ID=27>
+If, cs
+you, ppss
+volunteer, vb
+you, ppss
+will, md
+be, be
+told, vbn
+where, wrb
+you're, ppss
+going, vbg
+after, in
+the, at
+ship, nn
+leaves, hvd
+<EOS>
+
+<sentence ID=28>
+And, cc
+it, pps
+leaves, vbz
+very, ql
+soon, vb
+<EOS>
+
+<sentence ID=29>
+You, ppss
+need, vb
+a, at
+linguist, nn
+Said, vbd
+Hal, nr
+<EOS>
+
+<sentence ID=30>
+The, at
+ship, nn
+is, bez
+huge, jj
+said, vbd
+Macneff, rp
+but, cc
+the, at
+number, nn
+of, in
+military, jj
+men, nns
+and, cc
+specialists, nns
+we, ppss
+are, ber
+taking, vbg
+limits, nns
+the, at
+linguists, nns
+to, in
+one, wrb
+<EOS>
+
+<sentence ID=31>
+We, ppss
+have, hv
+considered, vbn
+several, ap
+of, in
+your, pp
+professionals, nns
+because, cs
+they, ppss
+were, bed
+lamechians, vbn
+and, cc
+above, in
+suspicion, np
+<EOS>
+
+<sentence ID=32>
+Unfortunately, rb
+Hal, np
+waited, vbd
+Macneff, pps
+paced, vbd
+some, dti
+more, ap
+frowning, nns
+<EOS>
+
+<sentence ID=33>
+Then, rb
+he, pps
+said, vbd
+Unfortunately, rb
+only, rb
+one, cd
+lamechian, cd
+linguist, nn
+exists, vbz
+and, cc
+he, pps
+is, bez
+too, ql
+old, jj
+for, in
+this, dt
+expedition, np
+<EOS>
+
+<sentence ID=34>
+Therefore, rb
+A, at
+thousand, cd
+pardons, wps
+said, vbd
+Hal, nr
+<EOS>
+
+<sentence ID=35>
+But, cc
+I, ppss
+have, hv
+just, rb
+thought, vbd
+of, in
+one, cd
+thing, np
+<EOS>
+
+<sentence ID=36>
+I, ppss
+am, bem
+married, watt
+<EOS>
+
+<sentence ID=37>
+No, at
+problem, nn
+at, in
+all, abn
+said, vbd
+Macneff, watt
+<EOS>
+
+<sentence ID=38>
+There, ex
+will, md
+be, be
+no, at
+women, nns
+aboard, in
+the, at
+Gabriel, nn
+<EOS>
+
+<sentence ID=39>
+And, cc
+if, cs
+a, at
+man, nn
+is, bez
+married, vbn
+he, pps
+will, md
+automatically, rb
+be, be
+given, vbn
+a, at
+divorce, np
+<EOS>
+
+<sentence ID=40>
+Hal, np
+gasped, np
+and, cc
+he, pps
+said, vbd
+A, at
+divorce, nn
+Macneff, wps
+raised, vbd
+his, pp
+hands, nns
+apologetically, rb
+and, cc
+said, vbd
+You, ppss
+are, ber
+horrified, vbn
+of, in
+course, np
+<EOS>
+
+<sentence ID=41>
+But, cc
+from, in
+our, pp
+reading, nn
+of, in
+the, at
+Western, jj
+Talmud, cs
+we, ppss
+Urielites, md
+believe, vb
+that, cs
+the, at
+Forerunner, nn
+knowing, vbg
+this, dt
+situation, nn
+would, md
+arise, vb
+made, vbn
+reference, nn
+to, in
+and, cc
+provision, nn
+for, in
+divorce, np
+<EOS>
+
+<sentence ID=42>
+It's, at
+inevitable, jj
+in, in
+this, dt
+case, nn
+for, in
+the, at
+couple, nn
+will, md
+be, be
+separated, vbn
+for, in
+at, in
+the, at
+least, ap
+forty, cd
+years, dti
+<EOS>
+
+<sentence ID=43>
+Naturally, rb
+he, pps
+couched, bedz
+the, at
+provision, nn
+in, in
+obscure, jj
+language, np
+<EOS>
+
+<sentence ID=44>
+In, in
+his, pp
+great, jj
+and, cc
+glorious, jj
+wisdom, nn
+he, pps
+knew, vbd
+that, cs
+our, pp
+enemies, nns
+the, at
+Israelites, nn
+must, md
+not, to
+be, be
+able, jj
+to, to
+read, vb
+therein, rb
+what, wdt
+we, ppss
+planned, jj
+<EOS>
+
+<sentence ID=45>
+I, ppss
+volunteer, hv
+said, vbn
+Hal, nr
+<EOS>
+
+<sentence ID=46>
+Tell, vb
+me, ppo
+more, ap
+Sandalphon, nns
+<EOS>
+
+<sentence ID=47>
+Six, cd
+months, nns
+later, rbr
+Hal, np
+Yarrow, np
+stood, vbd
+in, in
+the, at
+observation, nn
+dome, nn
+of, in
+the, at
+Gabriel, nn
+and, cc
+watched, vbd
+the, at
+ball, nn
+of, in
+Earth, nn
+dwindle, bez
+above, rb
+him, vbg
+<EOS>
+
+<sentence ID=48>
+It, pps
+was, bedz
+night, nn
+on, in
+this, dt
+hemisphere, nn
+but, cc
+the, at
+light, nn
+blazed, vbz
+from, in
+the, at
+megalopolises, nn
+of, in
+Australia, np
+Japan, np
+China, np
+Southeast, jj
+Asia, np
+India, np
+Siberia, jj
+<EOS>
+
+<sentence ID=49>
+Hal, np
+the, at
+linguist, nn
+saw, vbd
+the, at
+glittering, vbg
+discs, nns
+and, cc
+necklaces, vbd
+in, in
+terms, nns
+of, in
+the, at
+languages, nns
+spoken, to
+therein, vb
+<EOS>
+
+<sentence ID=50>
+Australia, np
+the, at
+Philippine, ap
+Islands, nns
+Japan, np
+and, cc
+northern, jj
+China, np
+were, bed
+inhabited, vbn
+by, in
+those, dts
+members, nns
+of, in
+the, at
+Haijac, od
+Union, nn
+that, wps
+spoke, vbd
+American, nn
+<EOS>
+
+<sentence ID=51>
+Southern, jj
+China, np
+all, abn
+of, in
+southeast, nr
+Asia, np
+southern, jj
+India, np
+and, cc
+Ceylon, abn
+these, dts
+states, nns
+of, in
+the, at
+Malay, od
+Federation, nn
+spoke, vbd
+Bazaar, watt
+<EOS>
+
+<sentence ID=52>
+Siberia, pps
+spoke, vbd
+Icelandic, watt
+<EOS>
+
+<sentence ID=53>
+His, pp
+mind, nn
+turned, vbd
+the, at
+globe, nn
+swiftly, rb
+for, in
+him, ppo
+and, cc
+he, pps
+visualized, vbd
+Africa, np
+which, wdt
+used, vbd
+Swahili, rp
+south, nr
+of, in
+the, at
+Sahara, np
+Sea, np
+<EOS>
+
+<sentence ID=54>
+All, abn
+around, in
+the, at
+Mediterranean, np
+Sea, np
+Asia, np
+Minor, np
+northern, jj
+India, np
+and, cc
+Tibet, np
+Hebrew, np
+was, bedz
+the, at
+native, jj
+tongue, np
+<EOS>
+
+<sentence ID=55>
+In, in
+southern, jj
+Europe, np
+between, in
+the, at
+Israeli, fw
+Republics, fw
+and, cc
+the, at
+Icelandic-speaking, ap
+peoples, nns
+of, in
+northern, jj
+Europe, np
+was, bedz
+a, at
+thin, jj
+but, cc
+long, jj
+stretch, nn
+of, in
+territory, nn
+called, vbd
+March, np
+<EOS>
+
+<sentence ID=56>
+This, dt
+was, bedz
+no, at
+man's, od
+land, nn
+disputed, vbz
+by, in
+the, at
+Haijac, od
+Union, nn
+and, cc
+the, at
+Israeli, od
+Republic, nn
+a, at
+potential, jj
+source, nn
+of, in
+war, nn
+for, in
+the, at
+last, ap
+two, cd
+hundred, cd
+years, dti
+<EOS>
+
+<sentence ID=57>
+Neither, cc
+nation, nn
+would, md
+give, vb
+up, rp
+their, pp
+claim, nn
+on, in
+it, ppo
+yet, rb
+neither, cc
+wished, vbd
+to, to
+make, vb
+any, dti
+move, nn
+that, wps
+might, md
+lead, vb
+to, in
+a, at
+second, od
+Apocalyptic, np
+War, np
+<EOS>
+
+<sentence ID=58>
+So, rb
+for, in
+all, abn
+practical, jj
+purposes, nns
+it, pps
+was, bedz
+an, at
+independent, jj
+nation, nn
+and, cc
+by, in
+now, rb
+had, hvd
+its, pp
+own, jj
+organized, vbn
+government, nn
+unrecognized, vbz
+outside, in
+its, pp
+own, jj
+borders, dti
+<EOS>
+
+<sentence ID=59>
+Its, pp
+citizens, nns
+spoke, vbd
+all, abn
+of, in
+the, at
+world's, fw
+surviving, fw
+tongues, fw
+plus, cc
+a, at
+new, jj
+one, cd
+called, vbn
+Lingo, in
+a, at
+pidgin, nps
+whose, wp
+vocabulary, nn
+was, bedz
+derived, vbn
+from, in
+the, at
+other, ap
+six, cd
+and, cc
+whose, wp
+syntax, nn
+was, bedz
+so, ql
+simple, jj
+it, pps
+could, md
+be, be
+contained, vbn
+on, in
+half, abn
+a, at
+sheet, nn
+of, in
+paper, np
+<EOS>
+
+<sentence ID=60>
+Hal, np
+saw, vbd
+in, in
+his, pp
+mind, nn
+the, at
+rest, nn
+of, in
+Earth, nn
+Iceland, hvz
+Greenland, ben
+the, at
+Caribbean, np
+Islands, nns
+and, cc
+the, at
+eastern, jj
+half, nn
+of, in
+South, nr
+America, at
+<EOS>
+
+<sentence ID=61>
+Here, rb
+the, at
+peoples, nns
+spoke, vbd
+the, at
+tongue, nn
+of, in
+Iceland, ppo
+because, cs
+that, dt
+island, nn
+had, hvd
+gotten, vbn
+the, at
+jump, nn
+on, in
+the, at
+Hawaiian-Americans, nps
+who, wps
+were, bed
+busy, jj
+resettling, cc
+North, jj
+America, np
+and, cc
+the, at
+western, jj
+half, nn
+of, in
+South, jj
+America, np
+after, in
+the, at
+Apocalyptic, np
+War, np
+<EOS>
+
+<sentence ID=62>
+Then, rb
+there, ex
+was, bedz
+North, jj
+America, np
+where, wrb
+American, np
+was, bedz
+the, at
+native, jj
+speech, nn
+of, in
+all, abn
+except, in
+the, at
+twenty, cd
+descendants, nns
+of, in
+French-Canadians, at
+living, nn
+on, in
+the, at
+Hudson, np
+Bay, nn
+Preserve, nr
+<EOS>
+
+<sentence ID=63>
+Hal, np
+knew, vbd
+that, cs
+when, wrb
+that, dt
+side, nn
+of, in
+Earth, nn
+rotated, vbn
+into, in
+the, at
+night, nn
+zone, nn
+Sigmen, in
+City, nn
+would, md
+blaze, vb
+out, rp
+into, in
+space, np
+<EOS>
+
+<sentence ID=64>
+And, cc
+somewhere, rb
+in, in
+that, dt
+enormous, jj
+light, nn
+was, bedz
+his, pp
+apartment, np
+<EOS>
+
+<sentence ID=65>
+But, cc
+Mary, np
+would, md
+soon, rb
+no, ql
+longer, rbr
+be, be
+living, vbg
+there, rb
+for, cs
+she, pps
+would, md
+be, be
+notified, vbn
+in, in
+a, at
+few, ap
+days, nns
+that, cs
+her, pp
+husband, nn
+had, hvd
+died, vbn
+in, in
+an, at
+accident, nn
+while, cs
+on, in
+a, at
+flight, nn
+to, in
+Tahiti, rb
+<EOS>
+
+<sentence ID=66>
+She, pps
+would, md
+weep, vb
+in, in
+private, jj
+he, pps
+was, bedz
+sure, jj
+for, cs
+she, pps
+loved, vbd
+him, ppo
+in, in
+her, pp
+frigid, od
+way, nn
+though, cs
+in, in
+public, nn
+she, pps
+would, md
+be, be
+dry-eyed, ppo
+<EOS>
+
+<sentence ID=67>
+Her, pp
+friends, nns
+and, cc
+professional, jj
+associates, nns
+would, md
+sympathize, vb
+with, in
+her, pp
+not, nn
+because, cs
+she, pps
+had, hvd
+lost, vbn
+a, at
+beloved, jj
+husband, nn
+but, cc
+because, cs
+she, pps
+had, hvd
+been, ben
+married, vbn
+to, in
+a, at
+man, nn
+who, wps
+thought, vbd
+unrealistically, nr
+<EOS>
+
+<sentence ID=68>
+If, cs
+Hal, np
+Yarrow, wps
+had, hvd
+been, ben
+killed, vbn
+in, in
+a, at
+crash, nn
+he, pps
+must, md
+have, hv
+wanted, vbn
+it, ppo
+that, cs
+way, np
+<EOS>
+
+<sentence ID=69>
+There, ex
+was, bedz
+no, at
+such, jj
+thing, nn
+as, cs
+an, at
+accident, np
+<EOS>
+
+<sentence ID=70>
+Somehow, rb
+all, abn
+the, at
+other, ap
+passengers, nns
+also, rb
+supposed, vbn
+to, to
+have, hv
+died, vbn
+in, in
+this, dt
+web, nn
+of, in
+elaborate, jj
+frauds, qlp
+to, to
+cover, vb
+up, rp
+the, at
+disappearance, nn
+of, in
+the, at
+personnel, nns
+of, in
+the, at
+Gabriel, nps
+had, hvd
+simultaneously, rb
+agreed, vbd
+to, to
+die, to
+<EOS>
+
+<sentence ID=71>
+And, cc
+therefore, rb
+being, beg
+in, in
+disgrace, wdt
+they, ppss
+would, md
+not, to
+be, be
+cremated, vbn
+and, cc
+their, pp
+ashes, nns
+flung, vbd
+to, in
+the, at
+winds, nns
+in, in
+public, jj
+ceremony, np
+<EOS>
+
+<sentence ID=72>
+No, rb
+the, at
+fish, nn
+could, md
+eat, vb
+their, pp
+bodies, nns
+for, in
+all, abn
+the, at
+Sturch, ql
+cared, jj
+<EOS>
+
+<sentence ID=73>
+Hal, np
+felt, vbd
+sorry, jj
+for, in
+Mary, np
+he, pps
+had, hvd
+a, at
+time, nn
+keeping, vbg
+the, at
+tears, nns
+from, in
+welling, ppo
+to, in
+his, pp
+own, jj
+eyes, nns
+as, cs
+he, pps
+stood, vbd
+in, in
+the, at
+crowd, nn
+in, in
+the, at
+observation, nn
+dome, np
+<EOS>
+
+<sentence ID=74>
+Yet, cc
+he, pps
+told, vbd
+himself, ppl
+this, dt
+was, bedz
+the, at
+best, jjt
+way, np
+<EOS>
+
+<sentence ID=75>
+He, pps
+and, cc
+Mary, np
+would, md
+no, ql
+longer, rbr
+have, hv
+to, to
+tear, vb
+and, cc
+rend, vbd
+at, in
+each, dt
+other, ap
+their, pp
+mutual, jj
+torture, nns
+would, md
+be, be
+over, nr
+<EOS>
+
+<sentence ID=76>
+Mary, np
+was, bedz
+free, jj
+to, to
+marry, vb
+again, rb
+not, ben
+knowing, vbg
+that, cs
+the, at
+Sturch, nps
+had, hvd
+secretly, ben
+given, vbn
+her, ppo
+a, at
+divorce, nn
+thinking, vbg
+that, dt
+death, nn
+had, hvd
+dissolved, vbn
+her, ppo
+marriage, np
+<EOS>
+
+<sentence ID=77>
+She, pps
+would, md
+have, hv
+a, at
+year, nn
+in, in
+which, wdt
+to, to
+make, vb
+up, rp
+her, pp
+mind, nn
+to, to
+choose, vb
+a, at
+mate, nn
+from, in
+a, at
+list, nn
+selected, vbn
+by, in
+her, pp
+gapt, nn
+<EOS>
+
+<sentence ID=78>
+Perhaps, rb
+the, at
+psychological, jj
+barriers, nns
+that, wps
+had, hvd
+prevented, vbn
+her, ppo
+from, in
+conceiving, at
+Hal's, od
+child, nn
+would, md
+no, ql
+longer, rbr
+be, be
+present, nn
+<EOS>
+
+<sentence ID=79>
+Perhaps, vb
+<EOS>
+
+<sentence ID=80>
+Hal, np
+doubted, vbd
+if, cs
+this, dt
+happy, jj
+event, nn
+would, md
+occur, to
+<EOS>
+
+<sentence ID=81>
+Mary, np
+was, bedz
+as, ql
+frozen, vbn
+below, in
+the, at
+navel, jjr
+as, cs
+he, watt
+<EOS>
+
+<sentence ID=82>
+No, at
+matter, nn
+who, wps
+the, at
+candidate, nn
+for, in
+marriage, nn
+selected, vbn
+by, in
+the, at
+gapt, vbg
+The, at
+gapt, nn
+<EOS>
+
+<sentence ID=83>
+Pornsen, pn
+<EOS>
+
+<sentence ID=84>
+He, pps
+would, md
+no, ql
+longer, rbr
+have, hv
+to, to
+see, vb
+that, cs
+fat, jj
+face, nn
+hear, vb
+that, cs
+whining, at
+voice, nn
+Hal, np
+Yarrow, np
+Said, vbd
+the, at
+whining, np
+voice, np
+<EOS>
+
+<sentence ID=85>
+And, cc
+slowly, rb
+feeling, vbg
+himself, ppl
+icy, ql
+yet, rb
+burning, vbg
+Hal, np
+turned, jj
+<EOS>
+
+<sentence ID=86>
+There, ex
+was, bedz
+the, at
+squat, nn
+loose-jowled, in
+man, nn
+smiling, vbg
+lopsidedly, ppo
+up, rp
+at, in
+him, vbg
+<EOS>
+
+<sentence ID=87>
+My, pp
+beloved, jj
+ward, nn
+my, pp
+perennial, jj
+gadfly, nns
+said, vbd
+the, at
+whining, np
+voice, np
+<EOS>
+
+<sentence ID=88>
+I, ppss
+had, hvd
+no, at
+idea, nn
+that, cs
+you, ppss
+too, rb
+would, md
+be, be
+on, in
+this, dt
+glorious, jj
+voyage, np
+<EOS>
+
+<sentence ID=89>
+But, cc
+I, ppss
+might, md
+have, hv
+known, vbn
+We, ppss
+seem, vb
+to, to
+be, be
+bound, vbn
+by, in
+love, nn
+Sigmen, vbz
+himself, ppl
+must, md
+have, hv
+foreseen, hvn
+it, watt
+<EOS>
+
+<sentence ID=90>
+Love, nn
+to, in
+you, ppo
+my, pp
+ward, watt
+<EOS>
+
+<sentence ID=91>
+Sigmen, ppss
+love, vb
+you, ppo
+too, rb
+my, pp
+guardian, nns
+said, vbd
+Hal, ppls
+choking, watt
+<EOS>
+
+<sentence ID=92>
+How, wrb
+wonderful, jj
+to, to
+see, vb
+your, pp
+cherished, vbn
+self, np
+<EOS>
+
+<sentence ID=93>
+I, ppss
+had, hvd
+thought, vbn
+we, ppss
+would, md
+never, rb
+again, rb
+speak, vb
+to, in
+each, dt
+other, dod
+<EOS>
+
+<sentence ID=94>
+5, cd
+the, at
+Gabriel, nps
+pointed, vbd
+towards, in
+her, pp
+destination, nn
+and, cc
+under, in
+one-gee, at
+acceleration, nn
+began, vbd
+to, to
+build, vb
+up, rp
+towards, in
+her, pp
+ultimate, jj
+velocity, nn
+99.1, in
+percent, nn
+of, in
+the, at
+speed, nn
+of, in
+light, np
+<EOS>
+
+<sentence ID=95>
+Meanwhile, rb
+all, abn
+the, at
+personnel, nns
+except, in
+those, dts
+few, ap
+needed, vbn
+to, to
+carry, vb
+out, rp
+the, at
+performance, nn
+of, in
+the, at
+ship, nn
+went, vbd
+into, in
+the, at
+suspensor, nn
+<EOS>
+
+<sentence ID=96>
+Here, rb
+they, ppss
+would, md
+lie, vb
+in, in
+suspended, vbn
+animation, rp
+for, in
+many, ap
+years, watt
+<EOS>
+
+<sentence ID=97>
+Some, dti
+time, nn
+later, rbr
+after, cs
+a, at
+check, nn
+had, hvd
+been, ben
+made, vbn
+of, in
+all, abn
+automatic, jj
+equipment, nn
+the, at
+crew, nn
+would, md
+join, vb
+the, at
+others, dti
+<EOS>
+
+<sentence ID=98>
+They, ppss
+would, md
+sleep, vb
+while, cs
+the, at
+Gabriel's, od
+drive, nn
+would, md
+increase, vb
+the, at
+acceleration, nn
+to, in
+a, at
+point, nn
+which, wdt
+the, at
+unfrozen, ap
+bodies, nns
+of, in
+the, at
+personnel, nns
+could, md
+not, do
+have, hv
+endured, bedz
+<EOS>
+
+<sentence ID=99>
+Upon, in
+reaching, vbg
+the, at
+desired, vbn
+speed, nn
+the, at
+automatic, jj
+equipment, nn
+would, md
+cut, vb
+off, rp
+the, at
+drive, nn
+and, cc
+the, at
+silent, jj
+but, cc
+not, ql
+empty, jj
+vessel, nn
+would, md
+hurl, vb
+towards, in
+the, at
+star, nn
+which, wdt
+was, bedz
+its, pp
+journey's, od
+end, np
+<EOS>
+
+<sentence ID=100>
+Many, ap
+years, nns
+later, rbr
+the, at
+photon-counting, od
+apparatus, nn
+in, in
+the, at
+nose, nn
+of, in
+the, at
+ship, nn
+would, md
+determine, vb
+that, cs
+the, at
+star, nn
+was, bedz
+close, rb
+enough, qlp
+to, to
+actuate, vb
+deceleration, ppo
+<EOS>
+
+<sentence ID=101>
+Again, rb
+a, at
+force, nn
+too, ql
+strong, jj
+for, in
+unfrozen, dts
+bodies, nns
+to, to
+endure, vb
+would, md
+be, be
+applied, bedz
+<EOS>
+
+<sentence ID=102>
+Then, rb
+after, in
+slowing, vbg
+the, at
+vessel, nn
+considerably, rb
+the, at
+drive, nn
+would, md
+adjust, vb
+to, in
+a, at
+one-gee, vbg
+deceleration, rp
+<EOS>
+
+<sentence ID=103>
+And, cc
+the, at
+crew, nn
+would, md
+be, be
+automatically, rb
+brought, vbd
+out, rp
+of, in
+their, pp
+suspended, vbn
+animation, nr
+<EOS>
+
+<sentence ID=104>
+These, dts
+members, nns
+would, md
+then, rb
+unthaw, cs
+the, at
+rest, nn
+of, in
+the, at
+personnel, watt
+<EOS>
+
+<sentence ID=105>
+And, cc
+in, in
+the, at
+half-year, ql
+left, vbn
+before, in
+reaching, vbg
+their, pp
+destination, nn
+the, at
+men, nns
+would, md
+carry, vb
+out, rp
+whatever, wdt
+preparations, nns
+were, bed
+needed, watt
+<EOS>
+
+<sentence ID=106>
+Hal, np
+Yarrow, np
+was, bedz
+among, in
+the, at
+last, ap
+to, to
+go, vb
+into, in
+the, at
+suspensor, nn
+and, cc
+among, in
+the, at
+first, od
+to, to
+come, vb
+out, watt
+<EOS>
+
+<sentence ID=107>
+He, pps
+had, hvd
+to, to
+study, vb
+the, at
+recordings, nns
+of, in
+the, at
+language, nn
+of, in
+the, at
+chief, jjs
+nation, nn
+of, in
+Ozagen, wdt
+Siddo, do
+<EOS>
+
+<sentence ID=108>
+And, cc
+from, in
+the, at
+first, od
+he, pps
+faced, vbd
+a, at
+difficult, jj
+task, watt
+<EOS>
+
+<sentence ID=109>
+The, at
+expedition, nn
+that, wps
+had, hvd
+discovered, vbn
+Ozagen, pps
+had, hvd
+succeeded, vbn
+in, in
+correlating, cd
+two, cd
+thousand, cd
+Siddo, cd
+words, nns
+with, in
+an, at
+equal, jj
+number, nn
+of, in
+American, jj
+words, dti
+<EOS>
+
+<sentence ID=110>
+The, at
+description, nn
+of, in
+the, at
+Siddo, fw
+syntax, fw
+was, bedz
+very, ap
+restricted, bedz
+<EOS>
+
+<sentence ID=111>
+And, cc
+as, cs
+Hal, np
+found, vbd
+out, rp
+obviously, rb
+mistaken, vbn
+in, in
+many, ap
+cases, dti
+<EOS>
+
+<sentence ID=112>
+This, dt
+discovery, nn
+caused, vbd
+Hal, np
+anxiety, np
+<EOS>
+
+<sentence ID=113>
+His, pp
+duty, nn
+was, bedz
+to, to
+write, vb
+a, at
+school, nn
+text, nn
+and, cc
+to, to
+teach, vb
+the, at
+entire, jj
+personnel, nns
+of, in
+the, at
+Gabriel, nn
+how, wrb
+to, to
+speak, vb
+Ozagen, vbg
+<EOS>
+
+<sentence ID=114>
+Yet, rb
+if, cs
+he, pps
+used, vbd
+all, abn
+of, in
+the, at
+little, ap
+means, nns
+at, in
+his, pp
+disposal, nn
+he, pps
+would, md
+be, be
+instructing, vbn
+his, pp
+students, nns
+wrongly, rp
+<EOS>
+
+<sentence ID=115>
+Moreover, rb
+even, rb
+getting, vbg
+this, dt
+across, rb
+would, md
+be, be
+difficult, nn
+<EOS>
+
+<sentence ID=116>
+For, in
+one, cd
+thing, nn
+the, at
+organs, nns
+of, in
+speech, nn
+of, in
+the, at
+Ozagen, ap
+natives, nns
+differed, vbd
+somewhat, rb
+from, in
+Earthmen's, abl
+the, at
+sounds, nns
+made, vbn
+by, in
+these, dts
+organs, nns
+were, bed
+therefore, rb
+dissimilar, nr
+<EOS>
+
+<sentence ID=117>
+It, pps
+was, bedz
+true, jj
+that, cs
+they, ppss
+could, md
+be, be
+approximated, vbn
+but, cc
+would, md
+the, at
+Ozagenians, nps
+understand, vb
+these, dts
+approximations, nns
+Another, dt
+obstacle, nn
+was, bedz
+the, at
+grammatical, jj
+construction, nn
+of, in
+Siddo, rb
+<EOS>
+
+<sentence ID=118>
+Consider, vb
+the, at
+tense, jj
+system, np
+<EOS>
+
+<sentence ID=119>
+Instead, rb
+of, in
+inflecting, abl
+a, at
+verb, nn
+or, cc
+using, vbg
+an, at
+unattached, od
+particle, nn
+to, to
+indicate, vb
+the, at
+past, nn
+or, cc
+future, nn
+Siddo, hvz
+used, vbn
+an, at
+entirely, ql
+different, jj
+word, np
+<EOS>
+
+<sentence ID=120>
+Thus, rb
+the, at
+masculine, fw
+animate, fw
+infinitive, fw
+dabhumaksanigalu'ahai, fw
+meaning, nn
+to, to
+live, vb
+was, bedz
+in, in
+the, at
+perfect, jj
+tense, jj
+ksu'u'peli'afo, nns
+and, cc
+in, in
+the, at
+future, nn
+mai'teipa, nr
+<EOS>
+
+<sentence ID=121>
+The, at
+same, ap
+use, nn
+of, in
+an, at
+entirely, ql
+different, jj
+word, nn
+applied, vbn
+for, in
+all, abn
+the, at
+other, ap
+tenses, watt
+<EOS>
+
+<sentence ID=122>
+Plus, wrb
+the, at
+fact, nn
+that, cs
+Siddo, pps
+not, bedz
+only, rb
+had, hvd
+the, at
+normal, jj
+to, to
+Earthmen, vb
+three, cd
+genders, nns
+of, in
+masculine, jj
+feminine, jj
+and, cc
+neuter, np
+but, cc
+the, at
+two, cd
+extra, jj
+of, in
+inanimate, ppo
+and, cc
+spiritual, nn
+<EOS>
+
+<sentence ID=123>
+Fortunately, rb
+gender, ex
+was, bedz
+inflected, vbn
+though, cs
+the, at
+expression, nn
+of, in
+it, ppo
+would, md
+be, be
+difficult, jj
+for, in
+anybody, pn
+not, hvd
+born, vbn
+in, in
+Siddo, watt
+<EOS>
+
+<sentence ID=124>
+The, at
+system, nn
+of, in
+indicating, vbg
+gender, rb
+varied, vbn
+according, in
+to, in
+tense, nn
+<EOS>
+
+<sentence ID=125>
+All, abn
+the, at
+other, ap
+parts, nns
+of, in
+speech, nn
+nouns, fw
+pronouns, fw
+adjectives, fw
+adverbs, fw
+and, cc
+conjunctions, hvd
+operated, vbn
+under, in
+the, at
+same, ap
+system, nn
+as, cs
+the, at
+verbs, nn
+<EOS>
+
